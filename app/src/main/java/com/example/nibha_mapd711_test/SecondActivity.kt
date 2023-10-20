@@ -57,12 +57,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else if (loopDet == "Bridon Single Tour"){
@@ -71,12 +71,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else{
@@ -85,12 +85,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }
@@ -103,12 +103,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else if (loopDet == "Bridon Single Tour"){
@@ -117,12 +117,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else{
@@ -131,12 +131,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }
@@ -153,12 +153,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else if (loopDet == "Bridon Single Tour"){
@@ -167,12 +167,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else{
@@ -181,12 +181,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }
@@ -199,12 +199,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else if (loopDet == "Bridon Single Tour"){
@@ -213,12 +213,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else{
@@ -227,12 +227,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }
@@ -249,12 +249,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else if (loopDet == "Bridon Single Tour"){
@@ -263,12 +263,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else{
@@ -277,12 +277,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }
@@ -295,12 +295,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else if (loopDet == "Bridon Single Tour"){
@@ -309,12 +309,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else{
@@ -323,12 +323,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }
@@ -346,12 +346,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else if (loopDet == "Bridon Single Tour"){
@@ -360,12 +360,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else{
@@ -374,12 +374,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }
@@ -392,12 +392,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else if (loopDet == "Bridon Single Tour"){
@@ -406,12 +406,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else{
@@ -420,12 +420,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }
@@ -442,12 +442,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else if (loopDet == "Bridon Single Tour"){
@@ -456,12 +456,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else{
@@ -470,12 +470,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }
@@ -488,12 +488,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the loop: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else if (loopDet == "Bridon Single Tour"){
@@ -502,12 +502,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }else{
@@ -516,12 +516,12 @@ class SecondActivity : AppCompatActivity() {
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
                         text6.text = "Price for the Trade: "+tradePrice
-                        val total = price+sizePrice+loopPrice+tradePrice
+                        val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
                 }
