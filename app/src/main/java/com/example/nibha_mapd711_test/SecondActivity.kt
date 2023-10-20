@@ -56,12 +56,12 @@ class SecondActivity : AppCompatActivity() {
                     text5.text = "Price for the loop: "+loopPrice
                     if (tradeDet == "Trade"){
                         val tradePrice = 50
-                        text6.text = "Price for the loop: "+tradePrice
+                        text6.text = "Price for the trade: "+tradePrice
                         val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }else{
                         val tradePrice = 50
-                        text6.text = "Price for the loop: "+tradePrice
+                        text6.text = "Price for the trade: "+tradePrice
                         val total = (price+sizePrice+loopPrice)-tradePrice
                         text7.text = "Total Price: "+total
                     }
