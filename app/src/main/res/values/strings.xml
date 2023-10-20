@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nibha_MAPD711_Test</string>
+    <string-array name="actlvl">
+        <item>Apple Watch Series 9 - $550</item>
+        <item>Apple Watch Ultra 2 - $1100</item>
+        <item>Apple Watch SE  - $300</item>
+        <item>Apple Watch Nike - $400</item>
+        <item>Apple Watch Hermes - $1700</item>
+    </string-array>
+</resources>
